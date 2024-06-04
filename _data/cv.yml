@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Coutelle PhD candidate
-      institution: Deakin university, Australia
+      institutions: Deakin university, Australia and Coventry University, England
       year: 2024
       description:
         - Description 1.
@@ -59,37 +59,35 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
+        - 8th position in State board 12th exams.
+       
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reinforement learning(RL)
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Offline RL
+        - Model-Based RL
+        - Multi-Agent RL
+    - title: Computer vision
       items:
-        - Description 1.
-        - Description 2.
+        - Object Detection
+        - Image Segmentation
+        - Scene Understanding
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cycling, Swimming, Voilin.
