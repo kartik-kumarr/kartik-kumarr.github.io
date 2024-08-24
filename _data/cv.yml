@@ -21,7 +21,7 @@
       institution: University of Edinburgh, Scotland
       # year: 2023
       description:
-        - title: Courses 
+        - title: Courses
           contents:
             - Reinforcement Learning.
             - Machine learning and pattern recognition.
