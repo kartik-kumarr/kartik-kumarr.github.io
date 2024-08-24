@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kartik",
-    "label": "PhD candidate",
+    "label": "Coutelle(Dual) PhD candidate",
     "image": "",
     "email": "kumars.kartik@gmail.com",
     "phone": "+44 7767976753",
@@ -34,10 +34,10 @@
   "education": [
     {
       "institution": "Deakin University, Australia and Coventry University, England",
-      "location": "",
-      "area": "",
+      "location": "Geelong, Australia",
+      "area": "Computational Mathematics and Modeling",
       "studyType": "PhD",
-      "startDate": "2024",
+      "startDate": "",
       "endDate": "",
       "description": ""
     },
@@ -47,7 +47,7 @@
       "area": "Statistics with Data science",
       "studyType": "MSc",
       "startDate": "",
-      "endDate": "2023",
+      "endDate": "",
       "courses": [
         "Reinforcement Learning",
         "Machine Learning and Pattern Recognition",
@@ -62,7 +62,7 @@
     },
     {
       "institution": "Panjab University, India",
-      "location": "",
+      "location": "Chandigarh",
       "area": "Computer Science and Engineering",
       "studyType": "B.Eng.",
       "startDate": "",
