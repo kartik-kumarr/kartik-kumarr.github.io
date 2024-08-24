@@ -13,25 +13,25 @@
       institutions: Deakin university, Australia and Coventry University, England
       # year: 2024
       # description:
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: MSc. Statistics with Data science
       institution: University of Edinburgh, Scotland
       # year: 2023
       description:
         - title: Courses 
-            contents:
-             - Reinforcement Learning.
-             - Machine learning and pattern recognition.
-             - Probabilistic Modelling and Reasoning.
-             - Bayesian Data Analysis.
-             - Generalised Regression Models
-             - Bayesian Theory
-             - Incomplete Data Analysis
-             - Fundamentals of Optimization
-             - Statistical Programming
+          contents:
+            - Reinforcement Learning.
+            - Machine learning and pattern recognition.
+            - Probabilistic Modelling and Reasoning.
+            - Bayesian Data Analysis.
+            - Generalised Regression Models
+            - Bayesian Theory
+            - Incomplete Data Analysis
+            - Fundamentals of Optimization
+            - Statistical Programming
     - title: B.Eng. Computer science and engineering
       institution: Panjab University, India
       # year: 2023
@@ -43,15 +43,15 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: Defence reasearch & Development organisation(DRDO), Delhi
+      institution: Defence research & Development organisation (DRDO), Delhi
       year: June, 2019 - July, 2019
       description:
-        - Revolutionised the processing of LIF spectra(produced using the Raman effect) for chemicals by implementing supervised Machine Learning algorithms, specifically Support Vector Machines(SVMs).
- 
+        - Revolutionised the processing of LIF spectra (produced using the Raman effect) for chemicals by implementing supervised Machine Learning algorithms, specifically Support Vector Machines (SVMs).
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -65,11 +65,11 @@
     - year: 2017
       items:
         - 8th position in State board 12th exams.
-       
+
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Reinforement learning(RL)
+    - title: Reinforcement learning (RL)
       items:
         - Offline RL
         - Model-Based RL
