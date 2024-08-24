@@ -6,7 +6,7 @@
     "email": "kumars.kartik@gmail.com",
     "phone": "+44 7767976753",
     "url": "https://kartik-kumarr.github.io",
-    "summary": "A young lad working in reasearch",
+    "summary": "A young lad working in research",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Experience": [
+  "experience": [
     {
       "name": "Deakin University, Australia",
       "position": "Coutelle Phd candidate",
@@ -56,35 +56,32 @@
   ],
   "skills": [
     {
-      {
-        "name": "Machine learning",
-        "level": "Master",
-        "icon": "fa-solid fa-hashtag",
-        "keywords": [
-          "Supervised Learning",
-          "Unsupervised Learning",
-          "Reinforcement Learning",
-          "Neural Networks",
-          "Deep Learning",
-          "Natural Language Processing",
-          "Computer Vision",
-          "Data Preprocessing",
-          "Model Evaluation",
-          "Feature Engineering",
-          "Ensemble Methods",
-          "Transfer Learning",
-          "Hyperparameter Tuning",
-          "Gradient Descent",
-          "Clustering",
-          "Regression",
-          "Classification",
-          "Anomaly Detection",
-          "Time Series Analysis",
-          "Dimensionality Reduction"
-       
-        ]      
+      "name": "Machine learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Neural Networks",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Data Preprocessing",
+        "Model Evaluation",
+        "Feature Engineering",
+        "Ensemble Methods",
+        "Transfer Learning",
+        "Hyperparameter Tuning",
+        "Gradient Descent",
+        "Clustering",
+        "Regression",
+        "Classification",
+        "Anomaly Detection",
+        "Time Series Analysis",
+        "Dimensionality Reduction"
+      ]
     }
-  }
   ],
   "languages": [
     {
@@ -116,12 +113,12 @@
     {
       "name": "Ruth king",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     },
     {
       "name": "Miguel de Carvalho",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     }
   ],
   "projects": [
